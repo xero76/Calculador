@@ -134,6 +134,7 @@
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(433, 263);
+            ControlBox = false;
             Controls.Add(btnSalir);
             Controls.Add(txtResultado);
             Controls.Add(label4);

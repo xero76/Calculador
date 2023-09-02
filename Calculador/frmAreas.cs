@@ -74,8 +74,8 @@ namespace Calculador
 
             if (rbtRectangulo.Checked == true)
             {
-                
-                if(ComprobarVariable1()== true && ComprobarVariable2()== true) {
+                if (ComprobarVariable1() == true && ComprobarVariable2() == true)
+                {
                     valor1 = double.Parse(txtValor1.Text);
                     valor2 = double.Parse(txtValor2.Text);
                     txtResultado.Text = obj.rectangulo(valor1, valor2).ToString();
@@ -93,9 +93,8 @@ namespace Calculador
             {
                 if (ComprobarVariable1() == true && ComprobarVariable2() == true)
                 {
-                    valor1 = double.Parse(txtValor1.Text);   
+                    valor1 = double.Parse(txtValor1.Text);
                     valor2 = double.Parse(txtValor2.Text);
-                    MessageBox.Show(obj.triangulo(valor1, valor2).ToString());
                     txtResultado.Text = obj.triangulo(valor1, valor2).ToString();
                 }
             }
@@ -107,7 +106,7 @@ namespace Calculador
             if (double.TryParse(txtValor1.Text, out double num1))
             {
                 variablesOk = true;
-             
+
             }
             else
             {
@@ -135,7 +134,7 @@ namespace Calculador
                     }
                 }
 
-                
+
             }
             return variablesOk;
         }

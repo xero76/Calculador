@@ -36,3 +36,22 @@ C:\Codigos\Progra 2\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.csp
 C:\Codigos\Progra 2\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.dll
 C:\Codigos\Progra 2\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.pdb
 C:\Codigos\Progra 2\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.genruntimeconfig.cache
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.exe
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.deps.json
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.runtimeconfig.json
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.runtimeconfig.dev.json
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.dll
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\bin\Debug\netcoreapp3.1\Calculador.pdb
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.Form1.resources
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.frmAreas.resources
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.frmLongitudes.resources
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.frmVolumenes.resources
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.Properties.Resources.resources
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.csproj.GenerateResource.cache
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.AssemblyInfoInputs.cache
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.AssemblyInfo.cs
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.dll
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.pdb
+C:\Users\Moises\Documents\GitHub\Calculador\Calculador\obj\Debug\netcoreapp3.1\Calculador.genruntimeconfig.cache

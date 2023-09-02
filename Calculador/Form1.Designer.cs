@@ -116,6 +116,7 @@
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(847, 358);
+            ControlBox = false;
             Controls.Add(btnSalir);
             Controls.Add(pictureBox3);
             Controls.Add(pictureBox2);

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Codigos\\Progra 2\\Calculador\\Calculador\\Calculador.csproj",
+      "projectUniqueName": "C:\\Users\\Moises\\Documents\\GitHub\\Calculador\\Calculador\\Calculador.csproj",
       "projectName": "Calculador",
-      "projectPath": "C:\\Codigos\\Progra 2\\Calculador\\Calculador\\Calculador.csproj",
+      "projectPath": "C:\\Users\\Moises\\Documents\\GitHub\\Calculador\\Calculador\\Calculador.csproj",
       "packagesPath": "C:\\Users\\Moises\\.nuget\\packages\\",
-      "outputPath": "C:\\Codigos\\Progra 2\\Calculador\\Calculador\\obj\\",
+      "outputPath": "C:\\Users\\Moises\\Documents\\GitHub\\Calculador\\Calculador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
